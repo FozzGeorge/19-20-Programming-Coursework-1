@@ -5,8 +5,9 @@ simulation up.
 
 5/11/2019
 - I initially encountered problems with the enemy AI's projectile not chasing the player, and could not understand why. 
-Eventually, I realised it required the simplest fix, and I’d forgotten to change the player’s tag to “Player”. This is a simple,#yet common mistake and one that 
-I am thankful to have encountered, simply because I will remember t oalways check tags now.
+Eventually, I realised it required the simplest fix, and I’d forgotten to change the player’s tag to “Player”. 
+This is a simple, yet common mistake and one that I am thankful to have encountered, simply because I will now remember to 
+always check tags.
 
 
 12/11/2019
