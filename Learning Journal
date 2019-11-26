@@ -12,5 +12,5 @@ always check tags.
 
 12/11/2019
 - I initially wanted the player to be able to fire projectiles at the enemy, but decided aginst this as it made for confusing gameplay.
-Instead I stuck with the mechanic of the enemy firing at the player, and implemented a scorign system for the player to get.
+Instead I stuck with the mechanic of the enemy firing at the player, and implemented a scoring system for the player to get.
 
